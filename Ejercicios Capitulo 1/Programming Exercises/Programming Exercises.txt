@@ -1,0 +1,56 @@
+ 1.-
+a) budgetApproval		Legal
+b) German Shepherd		Ilegal
+c) static			Ilegal
+d) HELLO			Legal
+e) 212AreaCode			Ilegal
+f) qhu6TRfg			Legal
+g) ssn#				Ilegal
+h) 4999				Ilegal
+i) 17				Ilegal
+j) Accounts_Receivable		Legal
+k) 32MPG			Ilegal
+l) rulesOfOrder			Legal
+
+ 2.-
+
+a) 
+1.- Limite de personas
+2.- Años de exitencia
+3.- Color
+b) 
+1.- Nombre del asegurado
+2.- Fecha de expedición
+4.- Institución
+c) 
+1.- Nombre del alumno
+2.- Materia
+3.- Calificaciones
+
+ 3.- 
+a) 
+1.- Lose Yourself
+2.- Mockinbird
+3.- Congratulations
+b) 
+1.- New York Yankees
+2.- Chicago Cubs
+3.- Diablos Rojos de Mexico
+c) 
+1.- Rafael Alberti
+2.- Alejandro Casona
+3.- Federico García Lorca
+
+ 4.-
+a) 
+1.- SweaterColor
+2.- Clothes
+3.- WinterClothes
+b) 
+1.- PlaceForVacations
+2.- EuropeCapitals
+3.- OlympicsHeadquarters 
+c)
+1.- DayAction
+2.- TypeOfFood
+3.- DoOfDay

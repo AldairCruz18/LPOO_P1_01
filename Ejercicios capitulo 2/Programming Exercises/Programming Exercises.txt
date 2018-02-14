@@ -1,0 +1,37 @@
+1.- 
+a) 17
+b) 10
+c) 6
+d) 7
+e) 4
+f) 2
+g) 0
+h) 1
+i) 3
+j) 3
+k) 33
+l) 5
+m) 13
+
+2.-
+a) true
+b) true
+c) false
+d) true
+e) false
+f) false
+g) false
+h) false
+i) true
+j) false
+
+3.-
+a) byte herm=2 porque no va a pasar de 2 caracteres, o numeros
+b) float calif=8.5 Porque no será una variable que incluya un número grande
+c) long cant=7442000000000 Porque será una catidad muy grande
+d) int hab=9519338 Porque No llega a ser un long, pero si es grande
+e) byte pas=50 Porque es un dato muy pequeño
+f) byte punt=102 Porque segun 102 puede ser el máximo de puntos
+g) byte marc=16 Porque es un número o datos muy chico
+h) short anio=1998 Porque es un número no tab largo para ocupar int
+i) bytes patas=4 Porque no hay un animal que tenga más de 127 patas
